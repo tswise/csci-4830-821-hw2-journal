@@ -10,7 +10,7 @@
 
 ## License
 
-Looks like MIT. [LICENSE](https://github.com/bastienjalbert/topguw#disclaimer).
+BSD-2. [LICENSE](https://github.com/bastienjalbert/topguw#disclaimer).
 
 ## The Commit
 
