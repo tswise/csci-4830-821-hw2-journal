@@ -36,3 +36,7 @@ I changed a misleading and self-sonflicting sentence in the README.md file.
 *   like this project may be dead or not actively worked on anymore because
 *   There are 4 other oull requests from other people.
 
+*   2016-03-01: Received a response from the author. The change was not
+*   accepted because the meaning of the sentence was correct, the change
+*   would have actually changed the meaning.
+
