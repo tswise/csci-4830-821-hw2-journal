@@ -27,7 +27,7 @@ users.
 
 ## The Change
 
-I changed a misleading and self-sonflicting sentence in the READ file.
+I changed a misleading and self-sonflicting sentence in the README.md file.
 
 ## Progress
 
