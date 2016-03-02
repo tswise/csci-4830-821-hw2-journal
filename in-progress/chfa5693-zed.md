@@ -32,7 +32,7 @@ I changed a misleading and self-sonflicting sentence in the README.md file.
 ## Progress
 
 *   2016-03-01: Today I forked the repo and I am waiting for a response
-*   from the owner. I also looked at the pther pull requests and it seems
+*   from the owner. I also looked at the other pull requests and it seems
 *   like this project may be dead or not actively worked on anymore because
 *   There are 4 other oull requests from other people.
 
